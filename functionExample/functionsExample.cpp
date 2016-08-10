@@ -24,6 +24,7 @@ double DegreesToRadians(double firstNumber)
 		double matrixVal[4];
 		double matrix2Val[4];
 		double matTotal[4];
+		cout << "hello wrld" << endl;
 		double multiTotal[4];
 		double determinant;
 		double inverseVal[4];
