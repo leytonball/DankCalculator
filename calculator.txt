@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: functionExample, Configuration: Debug Win32 ------
+1>  functionsExample.cpp
+1>  functionExample.vcxproj -> C:\Users\student\Desktop\Leyton Z\C++\functionExample\Debug\functionExample.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
