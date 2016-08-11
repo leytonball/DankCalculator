@@ -145,10 +145,12 @@
   <ItemGroup>
     <ClCompile Include="functionsExample.cpp" />
     <ClCompile Include="generalMath.cpp" />
+    <ClCompile Include="numberSequences.cpp" />
     <ClCompile Include="numberSystems.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="generalMath.h" />
+    <ClInclude Include="numberSequences.h" />
     <ClInclude Include="numberSystems.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

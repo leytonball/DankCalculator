@@ -24,12 +24,18 @@
     <ClCompile Include="numberSystems.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="numberSequences.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="generalMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="numberSystems.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="numberSequences.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
